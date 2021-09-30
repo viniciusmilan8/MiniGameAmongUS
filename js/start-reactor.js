@@ -9,4 +9,6 @@ startReactor = {
     audio : {},
     interface: {},
 
+    load() {},
+    start() {},
 }
